@@ -1,5 +1,4 @@
 # MemCacheSample
-MemCache Demo
 
 A small application to demonstrate the usage of Memcached
 
