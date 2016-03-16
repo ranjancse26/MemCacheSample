@@ -2,6 +2,9 @@
 
 A small application to demonstrate the usage of Memcached
 
+# Introdution - Walkthrough to MemCached
+http://deanhume.com/home/blogpost/memcached-for-c----a-walkthrough/62
+
 # Install Memcached as a Windows Service
 http://latebound.blogspot.com/2008/10/running-memcached-on-windows.html
 
